@@ -1,0 +1,12 @@
+sample_type	ident	well_id	sample_id	read_id	operation	limb	sample
+denervated1	A02v1_9_S8	A02v1	S8	9	denervated	fore	tissue
+denervated2	A03v1_17_S16	A03v1	S16	17	denervated	fore	tissue
+denervated3	A04v1_25_S24	A04v1	S24	25	denervated	fore	tissue
+denervated4	B01v1_2_S2	B01v1	S2	2	denervated	fore	tissue
+denervated5	B02v1_10_S9	B02v1	S9	10	denervated	fore	tissue
+denervated6	D03v1_20_S19	D03v1	S19	20	denervated	fore	tissue
+denervated7	E03v1_21_S20	E03v1	S20	21	denervated	fore	tissue
+sham1	C06v1_41_S39	C06v1	S39	41	sham	fore	tissue
+sham2	E05v1_37_S35	E05v1	S35	37	sham	fore	tissue
+sham3	E06v2_45_S43	E06v2	S43	45	sham	fore	tissue
+sham4	F04v1_30_S29	F04v1	S29	30	sham	fore	tissue
