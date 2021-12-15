@@ -1,0 +1,8 @@
+sample_type	ident	well_id	sample_id	read_id	operation	limb	sample
+denervated1	G03v1_23_S22	G03v1	S22	23	denervated	fore	nerve
+denervated2	G01v1_7_S6	G01v1	S6	7	denervated	fore	nerve
+denervated3	D02v1_12_S11	D02v1	S11	12	denervated	fore	nerve
+denervated4	G02v1_15_S14	G02v1	S14	15	denervated	fore	nerve
+sham1	B04v2_26_S25	B04v2	S25	26	sham	fore	nerve
+sham2	A05v1_33_S32	A05v1	S32	33	sham	fore	nerve
+sham3	C06v1_43_S41	C06v1	S41	43	sham	fore	nerve
